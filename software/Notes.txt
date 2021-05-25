@@ -1,0 +1,4 @@
+
+random bonsai trees when loading ( cbonsai )
+ytfzf - browse yt in terminal
+look to make terminal look cool (turn up contast thou): https://preview.redd.it/m1a6pyn6xug61.png?width=640&crop=smart&auto=webp&s=3b0efb54044d15611470ef3c9729419203d0fc80

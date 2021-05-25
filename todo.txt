@@ -1,0 +1,41 @@
+Get wine to work
+
+Enable force compression on btfs
+
+Decrease swap to 1G
+
+Figure out how to actually compress steam files ( or if enabling force compression works )
+
+find cool desktop environment with cool hacker effects and background
+
+change trash light dm or whatever that is like login to x with x desktop environment
+
+autoboot into arch instead of having to go through the arch/advanced options menu
+
+overclock CPU
+
+enable raid
+
+disable the not bios checking or whatever thing in chromeOS
+
+Implement protonvpn
+
+Implement LUKS encryption
+
+-- phase one complete --
+
+Implement TorGHost
+
+Implement TrueCrypt
+
+Modify whatever you need to to get glitch effects
+
+other cool stuff
+
+-- phase two complete --
+
+Modify locked ChomeOS or create procedure to enable psudo dual booting mydistro-arch on ChromeOS while maintaining school locking thing and storage
+
+Create switch back and forth from md-arch and locked ChromeOS
+
+-- phase three complete --
