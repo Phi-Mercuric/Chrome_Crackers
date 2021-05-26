@@ -1,8 +1,12 @@
 Get wine to work
 
+install kali desktop stuff as base to build on
+	```apt-get install kali-defaults desktop-base 
+	   apt-get install xfce4 xfce4-places-plugin xfce4-goodies``` ?
+
 Enable force compression on btfs
 
-Decrease swap to 1G
+Decrease swap to 1G or less (cpu is bottle neck not ram)
 
 Figure out how to actually compress steam files ( or if enabling force compression works )
 
@@ -11,8 +15,6 @@ find cool desktop environment with cool hacker effects and background
 change trash light dm or whatever that is like login to x with x desktop environment
 
 autoboot into arch instead of having to go through the arch/advanced options menu
-
-overclock CPU
 
 enable raid
 
@@ -23,6 +25,10 @@ Implement protonvpn
 Implement LUKS encryption
 
 -- phase one complete --
+
+overclock CPU
+
+enable EUFI with https://mrchromebox.tech/
 
 Implement TorGHost
 
