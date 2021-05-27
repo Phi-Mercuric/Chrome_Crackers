@@ -1,4 +1,5 @@
 <h1> Preparing the machine </h1>
+
 - Enable Dev mode
 - Install coreboot from https://mrchromebox.tech/
 - Burn Arch on USB
