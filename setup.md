@@ -1,10 +1,43 @@
-Chrome Settings:
-Add dark reader
-Add "hacker" theme
-The Great Suspender
-Adblock Plus
+<h1> Preparing the machine </h1>
+- Enable Dev mode
+- Install coreboot from https://mrchromebox.tech/
+- Burn Arch on USB
+- Boot into USB
 
-Enable:
+<h1> Installing </h1>
+
+<p>
+  
+- <a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/7" target="_blank">[[UEFI partition setup]]</a>
+- <a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/7" target="_blank">[[LUKS]]</a>
+- BTRFS file system | mount -o compress-force=zstd:12,autodefrag,noatime,nodatacow,<a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/9" target="_blank">[[ssd,ssd_spread,discard]]</a>
+</p>
+
+<h3> To install: </h3>
+
+- wine & dependencies
+- protonvpn
+- TorGHost-ng
+- vulkan
+- chromium
+- discord
+- steam
+- our selection of steam games
+advanced:
+- cpupower
+
+<h3> To remove: </h3>
+
+- Firefox
+
+<h1> Chrome </h1>
+
+- Add dark reader
+- Add "hacker" theme
+- The Great Suspender
+- Adblock Plus
+
+- Enable:
 destroy-profile-on-browser-close@1
 edit-passwords-in-settings@1
 enable-accelerated-video-decode@1
@@ -37,6 +70,3 @@ tab-groups-collapse-freezing@1
 turn-off-streaming-media-caching-always@1
 username-first-flow@1
 web-bundles@1
-
-Disable:
-
