@@ -11,7 +11,7 @@
   
 - <a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/7" target="_blank">[[UEFI partition setup]]</a>
 - <a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/7" target="_blank">[[LUKS]]</a>
-- BTRFS file system | mount -o compress-force=zstd:12,autodefrag,noatime,nodatacow,<a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/9" target="_blank">[[ssd,ssd_spread,discard]]</a>
+- BTRFS file system | mount -o compress-force=zstd:9,autodefrag,noatime,nodatacow,<a href="https://github.com/Phi-Mercuric/Chroom_Crackers/issues/9" target="_blank">[[ssd,ssd_spread,discard]]</a>
 </p>
 
 <h3> To install: </h3>
