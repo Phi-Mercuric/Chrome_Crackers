@@ -1,2 +1,2 @@
-# Chroom_Crackers
-The official repo of the Phi::Chroom_Crackers
+# Chrome_Crackers
+The official repo of the Phi::Chrome_Crackers
